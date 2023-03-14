@@ -1,0 +1,17 @@
+.button
+{
+    margin-left: 12px;
+    width: 41px;
+    height: 28px;
+    border: none;
+}
+
+.button:hover
+{
+    background-color: rgb(var(--light-blue-color), 0.4);
+}
+
+.button:active
+{
+    background-color: rgb(var(--light-blue-color), 0.8);
+}
